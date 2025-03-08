@@ -4,12 +4,12 @@ programa
 	funcao inicio()
 	{
 	real x
-	escreva("\nInforme a medida em metros: ")
+	escreva("\nInforme a medida em quilômetros: ")
 	leia(x)
 	
 	x *= 100
 
-	escreva("\nA medida em centimentros é ",x," cm")
+	escreva("\nA medida em metros é ",x," m")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -17,7 +17,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 99; 
+ * @POSICAO-CURSOR = 151; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
